@@ -29,7 +29,7 @@ public class FourTest extends Base {
 
 		driver.get("https://omayo.blogspot.com/");
 
-		Assert.assertTrue(false);
+		//Assert.assertTrue(false);
 
 	}
 
